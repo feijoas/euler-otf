@@ -13,7 +13,7 @@ endef
 
 export $(NAME)SCRIPT
 
-SFDS=euler.sfd
+SFDS=eulerms.sfd
 OTFS=$(SFDS:.sfd=.otf)
 
 all: otf

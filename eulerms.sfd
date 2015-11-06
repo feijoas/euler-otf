@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: Neo-Euler
-FullName: Neo Euler
-FamilyName: Neo Euler
+FontName: Neo-Euler-MS
+FullName: Neo Euler MS
+FamilyName: Neo Euler MS
 Weight: Medium
 Copyright: Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org).\nCopyright (c) 2009, 2010 Khaled Hosny (khaledhosny@eglug.org).
 Version: 000.002
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1245785330
-ModificationTime: 1446828458
+ModificationTime: 1446829901
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -50,7 +50,7 @@ Lookup: 3 0 0 "'ssty' Script Style lookup 0" { "'ssty' Script Style lookup 0-1" 
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0-1"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family was designed by Hermann Zapf, commissioned by the American Mathematical Society. +IBwA-The underlying philosophy of Zapf+IBkA-s Euler design was to capture the flavor of mathematics as it might be written by a mathematician with excellent handwriting.+IB0ACgAA" "" "" "Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org),+AAoA-with Reserved Font Names EUEX10, EUEX7, EUEX8, EUEX9, EUFB10, EUFB5, EUFB7,+AAoA-EUFM10, EUFM5, EUFM7, EURB10, EURB5, EURB7, EURM10, EURM5, EURM7, EUSB10,+AAoA-EUSB5, EUSB7, EUSM10, EUSM5, EUSM7, CMEX10, CMSY5, CMSY7.+AAoACgAA-Copyright (c) 2009, 2010 Khaled Hosny (khaledhosny@eglug.org).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Neo Euler" "Medium" "Neo Euler"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Hermann Zapf" "The AMS Euler family was designed by Hermann Zapf, commissioned by the American Mathematical Society. +IBwA-The underlying philosophy of Zapf+IBkA-s Euler design was to capture the flavor of mathematics as it might be written by a mathematician with excellent handwriting.+IB0ACgAA" "" "" "Copyright (c) 1997, 2009 American Mathematical Society (http://www.ams.org),+AAoA-with Reserved Font Names EUEX10, EUEX7, EUEX8, EUEX9, EUFB10, EUFB5, EUFB7,+AAoA-EUFM10, EUFM5, EUFM7, EURB10, EURB5, EURB7, EURM10, EURM5, EURM7, EUSB10,+AAoA-EUSB5, EUSB7, EUSM10, EUSM5, EUSM7, CMEX10, CMSY5, CMSY7.+AAoACgAA-Copyright (c) 2009, 2010 Khaled Hosny (khaledhosny@eglug.org).+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Neo Euler MS" "Medium" "Neo Euler MS"
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1500
@@ -114,7 +114,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114080 32 12
+WinInfo: 1114048 32 12
 BeginPrivate: 10
 BlueValues 17 [ -22 0 693 706 ]
 OtherBlues 13 [ -206 -194 ]
@@ -1418,7 +1418,7 @@ StartChar: uni2211.alt
 Encoding: 1114133 -1 43
 Width: 1444
 VWidth: 1950
-Flags: HMWO
+Flags: HMW
 IsExtendedShape: 1
 HStem: -228.223 122.767<169.128 1412.75> 1149.27 79.0704
 VStem: -9.47651 1437.66
@@ -22813,8 +22813,8 @@ EndChar
 
 StartChar: uni2211.ssty1
 Encoding: 1114209 -1 513
-Width: 1185
-VWidth: 1800
+Width: 1186
+VWidth: 1950
 Flags: HW
 IsExtendedShape: 1
 HStem: -200 103<215 1069> 721 79<264 992 264 264>
@@ -22823,30 +22823,37 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-543 300 m 2
- 215 -97 l 1
- 1084 -97 l 1
- 1044 -296 l 5
- 101 -200 l 2
- 84.1008625334 -198.279621212 69 -200 69 -184 c 0
- 69 -179 72 -175 80 -165 c 2
- 462 298 l 1
- 143 733 l 1
- 143 784 l 1
- 145 800 156.140147486 797.85524545 175 800 c 2
- 984 892 l 1
- 992 721 l 1
- 264 721 l 1
- 554 325 l 1
- 552 312 551 310 543 300 c 2
+204.680664062 -122.6640625 m 1x98
+ 209.569335938 -99.6572265625 l 1
+ 538.46875 277.565429688 l 2x18
+ 541.686523438 281.255859375 589.258789062 333.017578125 588.791015625 341.638671875 c 0
+ 588.323242188 350.262695312 591.6953125 348.1171875 585.015625 354.918945312 c 2
+ 248.862304688 697.184570312 l 1
+ 297.869140625 724.373046875 l 1
+ 993.497070312 718.750976562 l 1x28
+ 1035.41503906 780.985351562 l 1
+ 1026.73925781 796.79296875 l 1
+ 757.577148438 786.734375 488.10546875 782.422851562 218.163085938 786.734375 c 1x98
+ 88.9306640625 719.1875 l 1
+ 403.552734375 395.828125 l 2
+ 432.474609375 367.0859375 461.705078125 332.59375 479.055664062 300.9765625 c 1
+ 461.463867188 265.046875 415.2578125 216.185546875 380.15234375 178.819335938 c 2
+ 78.435546875 -131.60546875 l 1
+ 72.09765625 -158.912109375 64.435546875 -197.715820312 64.513671875 -199.15234375 c 1
+ 240.409179688 -199.15234375 403.1484375 -195.16796875 579.043945312 -195.16796875 c 0x48
+ 752.983398438 -195.16796875 941.818359375 -192.37890625 1072.87402344 -193.7734375 c 1
+ 1087.76953125 -166.583984375 l 1
+ 1033.08691406 -114.297851562 l 1
+ 499.045898438 -116.389648438 l 1
+ 204.680664062 -122.6640625 l 1x98
 EndSplineSet
 EndChar
 
 StartChar: uni2211.alt.ssty1
 Encoding: 1114210 -1 514
-Width: 1615
-VWidth: 2200
-Flags: HW
+Width: 1444
+VWidth: 1950
+Flags: HWO
 IsExtendedShape: 1
 HStem: 1096 7.03468e-11<1336 1336> 1096 4.99986e-11<1336 1336 1336 1336>
 VStem: 1336 1.69641e-05<1096 1096>
@@ -22854,22 +22861,29 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-1498 -200 m 1
- 101 -200 l 2
- 84 -200 69 -200 69 -184 c 0
- 69 -181 69 -177 80 -165 c 2
- 635 480 l 1
- 192 1125 l 1
- 192 1168 l 2
- 192 1198 194 1200 224 1200 c 2
- 1375 1200 l 1
- 1284 940 l 1
- 368 1114 l 1
- 767 533 l 1
- 765 520 765 518 756 508 c 2
- 250 -79 l 1
- 1408 172 l 5
- 1498 -200 l 1
+241.565429688 -96 m 5x98
+ 248.017578125 -63 l 5
+ 681.927734375 478.09375 l 6x18
+ 686.172851562 483.387695312 748.934570312 557.633789062 748.31640625 570 c 4
+ 747.69921875 582.37109375 752.147460938 579.293945312 743.3359375 589.049804688 c 6
+ 299.85546875 1080 l 5
+ 364.508789062 1119 l 5
+ 1282.23828125 1110.93457031 l 5x28
+ 1337.5390625 1200.20410156 l 5
+ 1326.09375 1222.87890625 l 5
+ 970.993164062 1208.45214844 615.485351562 1202.26660156 259.35546875 1208.45214844 c 5x98
+ 88.861328125 1111.56152344 l 5
+ 503.935546875 647.73046875 l 6
+ 542.092773438 606.501953125 580.654296875 557.02734375 603.545898438 511.673828125 c 5
+ 580.336914062 460.137695312 519.37890625 390.049804688 473.063476562 336.450195312 c 6
+ 75.0146484375 -108.825195312 l 5
+ 66.6533203125 -147.995117188 56.544921875 -203.655273438 56.6474609375 -205.716796875 c 5
+ 288.704101562 -205.716796875 503.40234375 -200 735.45703125 -200 c 4x48
+ 964.934570312 -200 1214.05761719 -196 1386.95800781 -198 c 5
+ 1406.61035156 -159 l 5
+ 1334.46679688 -84 l 5
+ 629.916992188 -87 l 5
+ 241.565429688 -96 l 5x98
 EndSplineSet
 EndChar
 
@@ -62175,7 +62189,7 @@ EndChar
 
 StartChar: summation
 Encoding: 8721 8721 1383
-Width: 1056
+Width: 1021
 VWidth: 1950
 Flags: HW
 IsExtendedShape: 1
@@ -62186,23 +62200,29 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-484 453 m 2
- 180 47 l 1
- 971 47 l 1
- 957 -50 l 1
- 88 -50 l 2
- 70 -50 56 -50 56 -34 c 0
- 56 -30 62.0824674204 -26.2663770611 65 -17 c 2
- 224 488 l 5
- 122 891 l 1
- 122 937 l 1
- 125 950 135 950 154 950 c 2
- 902 950 l 1
- 888 880 l 1
- 229 880 l 1
- 486 486 l 2
- 489 482 493 476 493 470 c 0
- 493 466 491 462 484 453 c 2
+183.153320312 31.3359375 m 5x98
+ 187.536132812 54.3427734375 l 5
+ 482.37109375 431.565429688 l 6x18
+ 485.255859375 435.255859375 527.900390625 487.017578125 527.481445312 495.638671875 c 4
+ 527.061523438 504.262695312 530.084960938 502.1171875 524.096679688 508.918945312 c 6
+ 222.759765625 851.184570312 l 5
+ 266.690429688 878.373046875 l 5
+ 890.271484375 872.750976562 l 5x28
+ 927.848632812 934.985351562 l 5
+ 920.071289062 950.79296875 l 5
+ 678.786132812 940.734375 437.224609375 936.422851562 195.240234375 940.734375 c 5x98
+ 79.392578125 873.1875 l 5
+ 361.428710938 549.828125 l 6
+ 387.35546875 521.0859375 413.55859375 486.59375 429.112304688 454.9765625 c 5
+ 413.341796875 419.046875 371.921875 370.185546875 340.452148438 332.819335938 c 6
+ 69.984375 22.39453125 l 5
+ 64.302734375 -4.912109375 57.4345703125 -43.7158203125 57.50390625 -45.15234375 c 5
+ 215.182617188 -45.15234375 361.06640625 -41.16796875 518.744140625 -41.16796875 c 4x48
+ 674.668945312 -41.16796875 843.9453125 -38.37890625 961.427734375 -39.7734375 c 5
+ 974.780273438 -12.583984375 l 5
+ 925.760742188 39.7021484375 l 5
+ 447.03125 37.6103515625 l 5
+ 183.153320312 31.3359375 l 5x98
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style lookup 0-1" uni2211.ssty1
 EndChar
